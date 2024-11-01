@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "growthaccelerator:growth_accelerator2"
+    },
+    "B": {
+      "item": "minecraft:netherite_block"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "BAB",
+    "BBB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "growthaccelerator:growth_accelerator3"
+  }
+}

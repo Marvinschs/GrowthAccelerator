@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "growthaccelerator:growth_accelerator3"
+    },
+    "B": {
+      "item": "allthemodium:allthemodium_block"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "BAB",
+    "BBB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "growthaccelerator:growth_accelerator4"
+  }
+}
