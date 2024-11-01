@@ -1,4 +1,7 @@
 
+This mod adds a simple block which speed up growth in an area around it. this more of a proof of concept for working with the new Neoforge version
+
+
 Installation information
 =======
 
